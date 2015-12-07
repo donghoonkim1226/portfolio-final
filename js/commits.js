@@ -1,4 +1,3 @@
-
 $(document).ready(function() {
   $(".list-group").on("click", "a", function(e) {
     e.preventDefault();
